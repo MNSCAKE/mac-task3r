@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,a as t}from"./index-B0FgSvWN.js";const c={},_={class:"week2"},n=t("h1",null,"week 2 homework",-1),a=[n];function r(d,i){return s(),o("div",_,a)}const f=e(c,[["render",r]]);export{f as default};
